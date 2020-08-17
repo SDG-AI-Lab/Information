@@ -5,8 +5,8 @@ Dear Colleagues,
 You may freely choose the Integrated Development Environment (IDE) based on your language skills, interests, and expertise. The SDG-AI-LAB recommands the Volunteer Data Scientists to manage their projects on this Github repository in order to implement an effective Version Control with your teammates.
 
 Following instruction is an example for Pycharm IDE:
-**Clone: download from the repository to your computer
-**Commit and Push: upload back to the Github repository
+**Clone: download from the repository to your computer**
+**Commit and Push: upload back to the Github repository**
 
 ## Contribute to projects on Github Repository 
 
