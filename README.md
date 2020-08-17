@@ -5,8 +5,8 @@ Dear Colleagues,
 You may freely choose the Integrated Development Environment (IDE) based on your language skills, interests, and expertise. The SDG-AI-LAB recommands the Volunteer Data Scientists to manage their projects on this Github repository in order to implement an effective Version Control with your teammates.
 
 Following instruction is an example for Pycharm IDE:  
-**Clone: download from the repository to your computer**  
-**Commit and Push: upload back to the Github repository**  
+**Clone- download from the repository to your computer**  
+**Commit and Push- upload back to the Github repository**  
 
 ## Contribute to projects on Github Repository 
 
@@ -21,3 +21,6 @@ Following instruction is an example for Pycharm IDE:
 5. Click Clone. If you want to create a project based on these sources, click Yes in the confirmation dialog. PyCharm will automatically set Git root mapping to the project root directory.
 
 6. After making changes the codes, push your changes by choosing VCS | Git | Push from the main menu.
+
+
+[Source](https://www.jetbrains.com/help/pycharm/sync-with-a-remote-repository.html)
